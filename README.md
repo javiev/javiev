@@ -36,6 +36,7 @@ if __name__ == '__main__':
 
 ## Algunos de mis trabajos
 
+[Codepen](https://codepen.io/javiev) / 
 [Viajes Chile](https://javiev.github.io/viajeschilebootcamp/) / 
 [Shape](https://shape.cl) / 
 [WLTR](https://welivetheride.cl) /
