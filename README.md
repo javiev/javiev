@@ -4,9 +4,6 @@
 
 <br>
 
-<p>
-</p>
-
 ```python
 class JavierGomezC():
     
