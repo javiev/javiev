@@ -10,7 +10,7 @@ class JavierGomezC():
   def __init__(self):
     self.name = "Javier Gómez C";
     self.username = "javiev";
-    self.mail = "jaogomezco@gmail.com";
+    self.mail = "hola@javiev.dev";
       
   def __str__(self):
     return self.name
